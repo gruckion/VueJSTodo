@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>This is a simple application to test out using state management in VueJS</p>
   </div>
 </template>
